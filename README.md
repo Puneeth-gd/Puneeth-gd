@@ -1,38 +1,60 @@
-# Puneeth Kumar GD
+# <div style="color:#00ff88;">Puneeth Kumar GD</div>
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+<div style="color:#00ff88; font-weight:600;">
+Computer Science Engineering Undergraduate | Software Engineering | Artificial Intelligence | Machine Learning
+</div>
+</marquee>
+
+---
 
 ## Profile Overview
+<div style="color:#00ff88;">
+
 Computer Science Engineering undergraduate with a strong focus on software engineering, artificial intelligence, and data-driven systems. Actively developing technical expertise through structured learning, hands-on projects, and continuous problem-solving practice.
+
+</div>
 
 ---
 
 ## Academic & Technical Focus
+<div style="color:#00ff88;">
+
 - Computer Science Engineering (Undergraduate)
 - Software Development and System Design
 - Artificial Intelligence and Machine Learning
 - Database Management Systems
 - Full Stack Web Development
 
+</div>
+
 ---
 
 ## Current Learning Stack
-- Python for data analysis, automation, and ML
+<div style="color:#00ff88;">
+
+- Python for data analysis, automation, and machine learning
 - Web technologies (HTML, CSS, JavaScript, React, Node.js)
 - Relational and NoSQL databases
-- Machine Learning fundamentals and applied projects
+- Machine learning fundamentals and applied projects
 - Version control and collaborative development workflows
+
+</div>
 
 ---
 
 ## Professional Interests
-- Scalable software systems
-- AI-driven applications
-- Backend and API development
-- Data processing and visualization
-- Cloud-based application deployment
+
+<marquee behavior="alternate" direction="left" scrollamount="4">
+<div style="color:#00ff88;">
+Scalable Software Systems • AI-Driven Applications • Backend Engineering • Cloud Deployment
+</div>
+</marquee>
 
 ---
 
 ## Technical Skill Set
+<div style="color:#00ff88;">
 
 ### Programming Languages
 C · C++ · Java · Python · JavaScript
@@ -51,6 +73,8 @@ Google Cloud · Vercel · GitHub Actions
 
 ### Tools & Platforms
 Git · GitHub · GitLab · Figma · Canva · Blender · Raspberry Pi
+
+</div>
 
 ---
 
@@ -75,10 +99,14 @@ Git · GitHub · GitLab · Figma · Canva · Blender · Raspberry Pi
 ---
 
 ## Contact & Professional Presence
-- LinkedIn: https://linkedin.com/in/PUNEETHKUMARGD
-- X (Twitter): https://x.com/PuneethGd16019
-- YouTube: https://youtube.com/@puneethkumargd
-- Email: puneethkumargdpuneeth@gmail.com
+<div style="color:#00ff88;">
+
+LinkedIn: https://linkedin.com/in/PUNEETHKUMARGD  
+X (Twitter): https://x.com/PuneethGd16019  
+YouTube: https://youtube.com/@puneethkumargd  
+Email: puneethkumargdpuneeth@gmail.com  
+
+</div>
 
 ---
 
