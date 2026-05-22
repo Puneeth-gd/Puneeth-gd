@@ -1,113 +1,26 @@
-# <div style="color:#00ff88;">Puneeth Kumar GD</div>
+# 💫 About Me:
+## About Me<br><br>🎓 Computer Science Engineering Student  <br>💻 Passionate about Software Development, AI & Machine Learning  <br>🚀 Currently learning Python, Web Development, DBMS, and Machine Learning  <br>🛠️ Building projects and improving problem-solving skills every day  <br>
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-<div style="color:#00ff88; font-weight:600;">
-Computer Science Engineering Undergraduate | Software Engineering | Artificial Intelligence | Machine Learning
-</div>
-</marquee>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PUNEETH KUMAR GD) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PuneethGd16019) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@puneethkumargd?si=G00yBGdzV-ETYPvX) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@PUNEETH KUMAR GD Puneeth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puneethkumargdpuneeth@gmail.com) 
 
-## Profile Overview
-<div style="color:#00ff88;">
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Puneeth-gd&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Puneeth-gd&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Puneeth-gd&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Computer Science Engineering undergraduate with a strong focus on software engineering, artificial intelligence, and data-driven systems. Actively developing technical expertise through structured learning, hands-on projects, and continuous problem-solving practice.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
-
----
-
-## Academic & Technical Focus
-<div style="color:#00ff88;">
-
-- Computer Science Engineering (Undergraduate)
-- Software Development and System Design
-- Artificial Intelligence and Machine Learning
-- Database Management Systems
-- Full Stack Web Development
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Puneeth-gd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Puneeth-gd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Current Learning Stack
-<div style="color:#00ff88;">
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- Python for data analysis, automation, and machine learning
-- Web technologies (HTML, CSS, JavaScript, React, Node.js)
-- Relational and NoSQL databases
-- Machine learning fundamentals and applied projects
-- Version control and collaborative development workflows
-
-</div>
-
----
-
-## Professional Interests
-
-<marquee behavior="alternate" direction="left" scrollamount="4">
-<div style="color:#00ff88;">
-Scalable Software Systems • AI-Driven Applications • Backend Engineering • Cloud Deployment
-</div>
-</marquee>
-
----
-
-## Technical Skill Set
-<div style="color:#00ff88;">
-
-### Programming Languages
-C · C++ · Java · Python · JavaScript
-
-### Web & Application Development
-HTML5 · CSS3 · React · React Native · Node.js · WordPress · Web3.js
-
-### Databases & Backend
-MySQL · MongoDB · Firebase · Supabase
-
-### AI / Data / Visualization
-NumPy · Pandas · OpenCV · Plotly · Anaconda
-
-### Cloud & DevOps
-Google Cloud · Vercel · GitHub Actions
-
-### Tools & Platforms
-Git · GitHub · GitLab · Figma · Canva · Blender · Raspberry Pi
-
-</div>
-
----
-
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Puneeth-gd&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Puneeth-gd&theme=blue_navy&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Puneeth-gd&theme=blue_navy&hide_border=false&layout=compact)
-
----
-
-## Contribution Summary
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=Puneeth-gd&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## Professional Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## Contact & Professional Presence
-<div style="color:#00ff88;">
-
-LinkedIn: https://linkedin.com/in/PUNEETHKUMARGD  
-X (Twitter): https://x.com/PuneethGd16019  
-YouTube: https://youtube.com/@puneethkumargd  
-Email: puneethkumargdpuneeth@gmail.com  
-
-</div>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Puneeth-gd&icon=0&color=0)
+i need the ui/ux to be proffestional and robotic  language 
